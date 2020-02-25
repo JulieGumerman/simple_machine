@@ -17,7 +17,7 @@ memory = [
     20,
     3,
     ADD,
-    20,
+    2,
     3,
     PRINT_REGISTER,
     2,
